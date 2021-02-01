@@ -1,0 +1,45 @@
+*{
+      
+    background: linear-gradient(#ffffff , #da00ff);
+} 
+
+.main{
+    color: brown;
+}
+
+.calculator{
+    width: 200px;
+    margin: 90px auto;
+    background-color: whitesmoke;
+    color: chocolate;
+    
+
+
+}
+
+.calculator input{
+    padding: 10px;
+    width: 70%;
+    margin: 15px;
+
+}
+
+.btnbox:hover{
+    color: turquoise;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border-radius: 60px;
+  
+    
+
+    
+}
+
+.btn{
+    padding: 15px;
+    margin: 5px;
+    color: gray;
+   font-weight: bolder;
+   font-style: italic;
+}
